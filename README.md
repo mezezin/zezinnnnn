@@ -2,6 +2,8 @@
 
 ## Meu nome e josué correia viado
 
+<img src="https://media1.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif?cid=ecf05e477vagtq176qhqtyz4a4ygkiixgqlx3dr2mdjqghvv&rid=giphy.gif&ct=g"></img>
+
 <!--
 **zezinnnnn/zezinnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
