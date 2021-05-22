@@ -1,10 +1,10 @@
 # Hy World <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
 
-<img src="https://media1.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif?cid=ecf05e477vagtq176qhqtyz4a4ygkiixgqlx3dr2mdjqghvv&rid=giphy.gif&ct=g"></img>
+<img src="https://media1.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif?cid=ecf05e477vagtq176qhqtyz4a4ygkiixgqlx3dr2mdjqghvv&rid=giphy.gif&ct=g">
 
 ## Meu nome é Josué Corrêa 
 ## Bem-vindo ao meu Github 
-<img src="https://media1.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif?cid=ecf05e477vagtq176qhqtyz4a4ygkiixgqlx3dr2mdjqghvv&rid=giphy.gif&ct=g"></img>
+
 
 <!--
 **zezinnnnn/zezinnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
