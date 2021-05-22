@@ -1,4 +1,4 @@
-# Hy World👋
+# Hy World <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
 
 ## Meu nome é Josué Corrêa 
 ## Bem-vindo ao meu Github 
