@@ -23,7 +23,15 @@
 <img src="https://i.pinimg.com/originals/93/8d/34/938d34a289e79b9a763426e9d11ff8a2.png" tittle="NEXT.JS" width="40" height="40" style="max-width:100%;"></img>
 
 # Redes Sociais:
-
+  <a href="https://www.instagram.com/hebert.rc/">
+    <img align="left" alt="Hebert | Instagram" width="26px" src="https://i.pinimg.com/originals/4a/8c/23/4a8c23476a7c20c5bee2a752a6f96e9e.png" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw">
+    <img align="left" alt="Hebert | Youtube" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:hebertrocha76@gmail.com">
+    <img align="left" alt="Hebert | Gmail" width="26px" src="https://i.pinimg.com/originals/2c/1a/75/2c1a7560c88ea83e6b2593cd07af8ad8.png" />
+  </a>
 
 
 <!--
