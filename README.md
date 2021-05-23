@@ -17,10 +17,7 @@
 <img src="https://i.pinimg.com/originals/b8/48/d5/b848d5d9bb221592064de0f356f61676.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" tittle="REACT" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://i.pinimg.com/originals/f1/11/2c/f1112c450b49753109b132bf8542cf49.png" tittle="MONGO DB" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" tittle="NODE JS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://i.pinimg.com/originals/a4/e2/6a/a4e26a86c68e866d645d5a5607a7e9e2.png" tittle="BOOTSTRAP" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://i.pinimg.com/originals/de/67/94/de67947ca874ad4f75db38b01f061a84.png" tittle="TYPESCRIPT" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/93/8d/34/938d34a289e79b9a763426e9d11ff8a2.png" tittle="NEXT.JS" width="40" height="40" style="max-width:100%;"></img>
 
 
