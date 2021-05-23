@@ -17,7 +17,7 @@
 <img src="https://i.pinimg.com/originals/b8/48/d5/b848d5d9bb221592064de0f356f61676.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
-## Interesses: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif?raw=true" width="29px">
+## Interesses: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif?raw=true" width="26px">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" tittle="REACT" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" tittle="NODE JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/93/8d/34/938d34a289e79b9a763426e9d11ff8a2.png" tittle="NEXT.JS" width="40" height="40" style="max-width:100%;"></img>
