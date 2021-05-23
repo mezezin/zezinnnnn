@@ -3,6 +3,11 @@
 # Hy World <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
 ## Bem-vindo ao meu Github 
 ## Meu nome é Josué Corrêa 
+- Estudante do 1º Ano do Ens. Médio 📚
+- Aprendendo HTML, CSS e JavaScript.👨🏻‍💻
+- Goiânia-GO🏡
+- Quero ser um programador de sucesso no futuro. 🔥
+
 
 
 
