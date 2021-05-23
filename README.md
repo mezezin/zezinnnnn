@@ -22,7 +22,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" tittle="NODE JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/93/8d/34/938d34a289e79b9a763426e9d11ff8a2.png" tittle="NEXT.JS" width="40" height="40" style="max-width:100%;"></img>
 
-# Redes Sociais:
+# <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif?raw=true"> Redes Sociais:
   <a href="https://www.instagram.com/josuecorrea.sz/">
     <img align="left" alt="Hebert | Instagram" width="26px" src="https://i.pinimg.com/originals/4a/8c/23/4a8c23476a7c20c5bee2a752a6f96e9e.png" />
   </a> &nbsp;&nbsp;
