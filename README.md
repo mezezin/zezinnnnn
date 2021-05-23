@@ -7,9 +7,9 @@
 <img align="right" alt="luffy-smile" width="300px" src="https://i.pinimg.com/originals/0d/98/b2/0d98b2916254548f2c79a57eb8768969.jpg">
 
 ## Meu nome é Josué Corrêa 
-- 📚Estudante do 1º Ano do Ens. Médio 
+- 📚Estudante do 1º Ano do Ens. Médio. 
 - 👨🏻‍💻Aprendendo HTML, CSS e JavaScript.
-- 🏡Goiânia-GO
+- 🏡Goiânia-GO.
 - 🔥Quero ser um programador de sucesso no futuro.
 
 ## Meus interesses:
