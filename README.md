@@ -26,10 +26,10 @@
   <a href="https://www.instagram.com/josuecorrea.sz/">
     <img align="left" alt="Hebert | Instagram" width="26px" src="https://i.pinimg.com/originals/4a/8c/23/4a8c23476a7c20c5bee2a752a6f96e9e.png" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCIGhuN-sgEiVoAVwAJte8Bw">
+  <a href="https://twitter.com/amordavivikk">
     <img align="left" alt="Hebert | Youtube" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:hebertrocha76@gmail.com">
+  <a href="mailto:josuejoshua2005@gmail.com">
     <img align="left" alt="Hebert | Gmail" width="26px" src="https://i.pinimg.com/originals/2c/1a/75/2c1a7560c88ea83e6b2593cd07af8ad8.png" />
   </a>
 
