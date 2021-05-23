@@ -21,6 +21,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" tittle="REACT" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" tittle="NODE JS" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://i.pinimg.com/originals/93/8d/34/938d34a289e79b9a763426e9d11ff8a2.png" tittle="NEXT.JS" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://img2.gratispng.com/20181117/gha/kisspng-scalable-vector-graphics-javascript-python-logo-python-png-5bf04ce99623e3.916632641542474985615.jpg" tittle="NEXT.JS" width="40" height="40" style="max-width:100%;"></img>
 
 #  Redes Sociais: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif?raw=true" width="29px">
   <a href="https://www.instagram.com/josuecorrea.sz/">
