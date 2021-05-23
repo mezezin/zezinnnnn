@@ -3,6 +3,7 @@
 # Hy World <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
 ## Bem-vindo ao meu Github 
 <img align="right" alt="luffy-smile" width="150px" src="https://i.pinimg.com/originals/0d/98/b2/0d98b2916254548f2c79a57eb8768969.jpg">
+
 ## Meu nome é Josué Corrêa 
 - Estudante do 1º Ano do Ens. Médio 📚
 - Aprendendo HTML, CSS e JavaScript.👨🏻‍💻
