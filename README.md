@@ -2,15 +2,15 @@
 
 # Hy World <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">
 
-### Bem-vindo ao meu Github <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/-%20Find%20&%20Share%20on%20GIPHY.gif?raw=true" width="50px">
+### ⚡ Bem-vindo ao meu Github ⚡
 
 <img align="right" alt="luffy-smile" width="300px" src="https://i.pinimg.com/originals/0d/98/b2/0d98b2916254548f2c79a57eb8768969.jpg">
 
 ## Meu nome é Josué Corrêa 
-- Estudante do 1º Ano do Ens. Médio 📚
-- Aprendendo HTML, CSS e JavaScript.👨🏻‍💻
-- Goiânia-GO🏡
-- Quero ser um programador de sucesso no futuro. 🔥
+- 📚Estudante do 1º Ano do Ens. Médio 
+- 👨🏻‍💻Aprendendo HTML, CSS e JavaScript.
+- 🏡Goiânia-GO
+- 🔥Quero ser um programador de sucesso no futuro.
 
 ## Meus interesses:
 <img src="https://i.pinimg.com/originals/c5/73/ff/c573ff5552d6da9a1d28ec4e27cd1445.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>
