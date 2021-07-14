@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/josuecorrea.sz/">
     <img align="left" alt="Josue | Instagram" width="26px" src="https://i.pinimg.com/originals/4a/8c/23/4a8c23476a7c20c5bee2a752a6f96e9e.png" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/amordavivikk">
+  <a href="https://twitter.com/imzezinnnnn">
     <img align="left" alt="Josue | Youtube" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />
   </a> &nbsp;&nbsp;
   <a href="mailto:josuejoshua2005@gmail.com">
