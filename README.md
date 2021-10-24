@@ -13,14 +13,14 @@
 - 🏡Goiânia-GO.
 
 ## Estudando: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif?raw=true" width="29px">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" tittle="REACT" width="40" height="40" style="max-width:100%;"></img>
+<!--<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" tittle="REACT" width="40" height="40" style="max-width:100%;"></img>-->
 
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 ## Experiência: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif?raw=true" width="26px">
-<img src="https://i.pinimg.com/originals/c5/73/ff/c573ff5552d6da9a1d28ec4e27cd1445.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://i.pinimg.com/originals/b8/48/d5/b848d5d9bb221592064de0f356f61676.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<!--<img src="https://i.pinimg.com/originals/c5/73/ff/c573ff5552d6da9a1d28ec4e27cd1445.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>-->
+<!--<img src="https://i.pinimg.com/originals/b8/48/d5/b848d5d9bb221592064de0f356f61676.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>-->
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>-->
 
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
