@@ -7,16 +7,13 @@
 <img align="right" alt="luffy-smile" width="300px" src="https://i.pinimg.com/originals/0d/98/b2/0d98b2916254548f2c79a57eb8768969.jpg">
 
 ## Meu nome é Josué Corrêa <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif?raw=true" width="29px">
+- 🔥FrontEnd and Mobile Developer.
+- 👨🏻‍💻UI Designer.
 - 📚Estudante do 1º Ano do Ens. Médio.
-- 👨🏻‍💻Estudando UX/UI Design.
-- 👨🏻‍💻Aprendendo HTML, CSS e JavaScript.
 - 🏡Goiânia-GO.
-- 🔥Quero ser um programador de sucesso no futuro.
 
 ## Estudando: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif?raw=true" width="29px">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" tittle="REACT" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" tittle="NODE JS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://i.pinimg.com/originals/93/8d/34/938d34a289e79b9a763426e9d11ff8a2.png" tittle="NEXT.JS" width="40" height="40" style="max-width:100%;"></img>
 
 ## Experiência: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif?raw=true" width="26px">
 <img src="https://i.pinimg.com/originals/c5/73/ff/c573ff5552d6da9a1d28ec4e27cd1445.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>
