@@ -9,7 +9,7 @@
 ## Meu nome é Josué Corrêa <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif?raw=true" width="29px">
 - 🔥FrontEnd and Mobile Developer.
 - 👨🏻‍💻UI Designer.
-- 📚Estudante do 1º Ano do Ens. Médio.
+- 📚Estudante do 2º Ano do Ens. Médio.
 - 🏡Goiânia-GO.
 
 ## Estudando: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif?raw=true" width="29px">
