@@ -1,12 +1,10 @@
-<img align="left" alt="one-piece-gif" width="250px" src="https://media1.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif?cid=ecf05e477vagtq176qhqtyz4a4ygkiixgqlx3dr2mdjqghvv&rid=giphy.gif&ct=g">
-
 # Ohayō 
 
 ### ⚡ Bem-vindo ao meu Github ⚡
 
 <img align="right" alt="luffy-smile" width="300px" src="https://i.pinimg.com/originals/0d/98/b2/0d98b2916254548f2c79a57eb8768969.jpg">
 
-## Meu nome é Josué Corrêa <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif?raw=true" width="29px">
+## Meu nome é Josué Corrêa
 - 🔥FrontEnd Developer.
 - 👨🏻‍💻UI Designer.
 - 📚Estudante do 2º Ano do Ens. Médio.
@@ -24,7 +22,7 @@
 
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
-#  Redes Sociais: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif?raw=true" width="29px">
+#  Redes Sociais: 
   <a href="https://www.instagram.com/josuecorrea.sz/">
     <img align="left" alt="Josue | Instagram" width="26px" src="https://i.pinimg.com/originals/4a/8c/23/4a8c23476a7c20c5bee2a752a6f96e9e.png" />
   </a> &nbsp;&nbsp;
