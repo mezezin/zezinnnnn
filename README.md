@@ -10,7 +10,7 @@
 - 📚Estudante do 2º Ano do Ens. Médio.
 - 🏡Goiânia-GO.
 
-## Estudando: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif?raw=true" width="29px">
+## Estudando: 
 <!--<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" tittle="REACT" width="40" height="40" style="max-width:100%;"></img>-->
 
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
